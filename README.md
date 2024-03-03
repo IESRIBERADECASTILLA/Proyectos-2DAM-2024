@@ -1,17 +1,39 @@
 # Proyectos-2DAM-2024
+
 En este repositorio vamos a poner toda la información sobre los **Proyectos de Desarrollo de Aplicaciones Multiplataforma del IES Ribera de Castilla** para el curso 23/24
 
 ## Indice
 
-* [Tipos de proyectos](#Tipos-de-proyectos)
+- [Proyectos-2DAM-2024](#proyectos-2dam-2024)
+  - [Indice](#indice)
+  - [Introducción](#introducci%C3%B3n)
+    - [Tipos de proyectos](#tipos-de-proyectos)
+  - [Fases](#fases)
+    - [Propuesta de proyectos](#propuesta-de-proyectos)
+  - [Relación de Proyectos](#relaci%C3%B3n-de-proyectos)
+  - [Calendario](#calendario)
+    - [🗓️ Fechas a tener en cuenta](#%EF%B8%8F-fechas-a-tener-en-cuenta)
 
-* [Propuesta de proyectos](#Propuesta-de-proyectos)
+## Introducción
 
+El Proyecto de de Grado es un módulo profesional más en el Grado Superior de Aplicaciones Multiplataforma. Su duración es de 30 horas.
 
+Para dicho módulo cada alumno puede proponer un proyecto, que posteriormente debe ser aceptado por el equipo docente, o bien puede realizar un proyecto del banco de proyectos del Departamento de Informática.
 
+Cada alumno dispondrá de un tutor que realizará el seguimiento y prestará ayuda al alumno.
 
+El proceso a seguir será delimitado en una serie de fases:
 
-## Tipos de proyectos
+- Propuesta de proyecto
+- Verificación, aceptación o reforma del proyecto, por parte del equipo docente
+- Realización del proyecto
+- Revisión del proyecto
+- Entrega del proyecto
+- Presentación del proyecto
+
+Antes de plantear cualquier proyecto debemos saber que tipos de proyectos son admisibles en este módulo
+
+### Tipos de proyectos
 
 Tipos de proyectos que se pueden realizar:
 
@@ -21,10 +43,26 @@ b) **Proyecto de innovación, investigación experimental o desarrollo:** Consis
 
 c) **Proyecto de gestión:** Estará encaminado a la realización de estudios de viabilidad y mercadotecnia o la elaboración de un proyecto empresarial
 
+---
 
+## Fases
 
-## Propuesta de proyectos
+### Propuesta de proyectos
 
 Se puede hacer una propuesta de proyecto, utilizando este [modelo](Propuesta_proyecto23_24.doc)
 
-* Fecha límite de entrega de la popuesta: **22 de marzo de 2024**
+- Fecha límite de entrega de la popuesta: **22 de marzo de 2024**
+
+---
+
+## Relación de Proyectos
+
+A continuación listaremos los alumnos que van a realizar los proyectos. En esta sección se podrá acceder a los repositorios generales de los alumnos asi como al repositorio de su proyecto.
+
+---
+
+## Calendario
+
+### 🗓️ Fechas a tener en cuenta
+
+- Propuesta de proyecto: **Viernes 22 de Marzo de 2024**

@@ -51,7 +51,7 @@ c) **Proyecto de gestión:** Estará encaminado a la realización de estudios de
 
 Se puede hacer una propuesta de proyecto, utilizando este [modelo](Propuesta_proyecto23_24.doc)
 
-- Fecha límite de entrega de la popuesta: **22 de marzo de 2024**
+- Fecha límite de entrega de la popuesta: **martes 19 de marzo de 2024**
 
 ---
 
@@ -65,4 +65,4 @@ A continuación listaremos los alumnos que van a realizar los proyectos. En esta
 
 ### 🗓️ Fechas a tener en cuenta
 
-- Propuesta de proyecto: **Viernes 22 de Marzo de 2024**
+- Propuesta de proyecto: **martes 19 de marzo de 2024**

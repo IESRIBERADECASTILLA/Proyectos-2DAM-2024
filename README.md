@@ -39,11 +39,11 @@ Antes de plantear cualquier proyecto debemos saber que tipos de proyectos son ad
 
 Tipos de proyectos que se pueden realizar:
 
-a) **Proyecto documental:** Se dirigirá al análisis y comentario crítico de trabajos científicos publi-cados recientemente sobre un tema específico de actualidad relacionado con el ciclo formativo, o sobre la evolución tecnológica experimentada en el campo relacionado con el título. [Descargar el modelo](Proyecto-EsquemaMemoriaDAM-Documental_24.docx)
+a) **Proyecto documental:** Se dirigirá al análisis y comentario crítico de trabajos científicos publi-cados recientemente sobre un tema específico de actualidad relacionado con el ciclo formativo, o sobre la evolución tecnológica experimentada en el campo relacionado con el título. 
 
 b) **Proyecto de innovación, investigación experimental o desarrollo:** Consistirá en la realización de un proyecto de innovación o de investigación experimental, de producción de un objeto tecnológico, de desarrollo aplicado o de diseño de un procedimiento relacionado con la calidad, la prevención laboral o la protección del medio ambiente. [Descargar el modelo](Proyecto-EsquemaMemoriaDAM-Desarrollo_24.docx)
 
-c) **Proyecto de gestión:** Estará encaminado a la realización de estudios de viabilidad y mercadotecnia o la elaboración de un proyecto empresarial. [Descargar el modelo](Proyecto-EsquemaMemoriaDAM-Gestion_24.docx)
+c) **Proyecto de gestión:** Estará encaminado a la realización de estudios de viabilidad y mercadotecnia o la elaboración de un proyecto empresarial. 
 
 ---
 

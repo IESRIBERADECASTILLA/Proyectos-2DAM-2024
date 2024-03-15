@@ -10,6 +10,7 @@ En este repositorio vamos a poner toda la información sobre los **Proyectos de 
     - [Tipos de proyectos](#tipos-de-proyectos)
   - [Fases](#fases)
     - [Propuesta de proyectos](#propuesta-de-proyectos)
+    - [Anteproyecto](#Anteproyecto)
   - [Relación de Proyectos](#relaci%C3%B3n-de-proyectos)
   - [Calendario](#calendario)
     - [🗓️ Fechas a tener en cuenta](#%EF%B8%8F-fechas-a-tener-en-cuenta)
@@ -26,6 +27,7 @@ El proceso a seguir será delimitado en una serie de fases:
 
 - Propuesta de proyecto
 - Verificación, aceptación o reforma del proyecto, por parte del equipo docente
+- Anteproyecto
 - Realización del proyecto
 - Revisión del proyecto
 - Entrega del proyecto
@@ -37,11 +39,11 @@ Antes de plantear cualquier proyecto debemos saber que tipos de proyectos son ad
 
 Tipos de proyectos que se pueden realizar:
 
-a) **Proyecto documental:** Se dirigirá al análisis y comentario crítico de trabajos científicos publi-cados recientemente sobre un tema específico de actualidad relacionado con el ciclo formativo, o sobre la evolución tecnológica experimentada en el campo relacionado con el título.
+a) **Proyecto documental:** Se dirigirá al análisis y comentario crítico de trabajos científicos publi-cados recientemente sobre un tema específico de actualidad relacionado con el ciclo formativo, o sobre la evolución tecnológica experimentada en el campo relacionado con el título. [Descargar el modelo](Proyecto-EsquemaMemoriaDAM-Documental_24.docx)
 
-b) **Proyecto de innovación, investigación experimental o desarrollo:** Consistirá en la realización de un proyecto de innovación o de investigación experimental, de producción de un objeto tecnológico, de desarrollo aplicado o de diseño de un procedimiento relacionado con la calidad, la prevención laboral o la protección del medio ambiente.
+b) **Proyecto de innovación, investigación experimental o desarrollo:** Consistirá en la realización de un proyecto de innovación o de investigación experimental, de producción de un objeto tecnológico, de desarrollo aplicado o de diseño de un procedimiento relacionado con la calidad, la prevención laboral o la protección del medio ambiente. [Descargar el modelo](Proyecto-EsquemaMemoriaDAM-Desarrollo_24.docx)
 
-c) **Proyecto de gestión:** Estará encaminado a la realización de estudios de viabilidad y mercadotecnia o la elaboración de un proyecto empresarial
+c) **Proyecto de gestión:** Estará encaminado a la realización de estudios de viabilidad y mercadotecnia o la elaboración de un proyecto empresarial. [Descargar el modelo](Proyecto-EsquemaMemoriaDAM-Gestion_24.docx)
 
 ---
 
@@ -54,10 +56,35 @@ Se puede hacer una propuesta de proyecto, utilizando este [modelo](Propuesta_pro
 - Fecha límite de entrega de la popuesta: **martes 19 de marzo de 2024**
 
 ---
+### Anteproyecto
+
+Realizar el anteproyecto, utilizando este [modelo](Proyecto-EsquemaAnteproyecto_24.docx)
+
+- Fecha límite de entrega del anteproyecto: **miércoles 3 de abril de 2024**
+
 
 ## Relación de Proyectos
 
 A continuación listaremos los alumnos que van a realizar los proyectos. En esta sección se podrá acceder a los repositorios generales de los alumnos asi como al repositorio de su proyecto.
+
+- [Vera Andrés]
+- [Oscar Arribas]
+- [Sergio Benito]
+- [ÁLvaro Collantes]
+- [Francisco de la Puente]
+- [Mª Carmen García]
+- [Víctor Manuel González]
+- [Álvaro Martín]
+- [Iván Martín]
+- [Paula Nunes]
+- [Raúl Pérez]
+- [Mario Rodríguez]
+- [Lara Rodríguez]
+- [Carlos Samaniego]
+- [Jesús Sánchez]
+- [Raúl Sastre]
+- [Alonso Soriano]
+- [Roberto Toquero]
 
 ---
 
@@ -66,3 +93,4 @@ A continuación listaremos los alumnos que van a realizar los proyectos. En esta
 ### 🗓️ Fechas a tener en cuenta
 
 - Propuesta de proyecto: **martes 19 de marzo de 2024**
+- Anteproyecto: **miércoles 3 de abril de 2024**

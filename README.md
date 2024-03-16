@@ -51,7 +51,7 @@ c) **Proyecto de gestión:** Estará encaminado a la realización de estudios de
 
 ### Propuesta de proyectos
 
-Se puede hacer una propuesta de proyecto, utilizando este [modelo](Propuesta_proyecto23_24.doc)
+Se puede hacer una propuesta de proyecto, utilizando este [modelo](Proyecto-Propuesta_24.doc)
 
 - Fecha límite de entrega de la popuesta: **martes 19 de marzo de 2024**
 

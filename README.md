@@ -67,24 +67,24 @@ Realizar el anteproyecto, utilizando este [modelo](Proyecto-EsquemaAnteproyecto_
 
 A continuación listaremos los alumnos que van a realizar los proyectos. En esta sección se podrá acceder a los repositorios generales de los alumnos asi como al repositorio de su proyecto.
 
-- [Vera Andrés] - **Tutora: Silvia**
-- [Oscar Arribas] - **Tutora: Cristina**
-- [Sergio Benito] - **Tutor: Juan**
+- [Vera Andrés] - <span style="color:red">**Tutora: Silvia**</span>
+- [Oscar Arribas] - <span style="color:blue">**Tutora: Cristina**</span>
+- [Sergio Benito] - <span style="color:green">**Tutor: Juan**</span>
 - [Álvaro Collantes] - **Tutor: Juan** 
-- [Francisco de la Puente]Tutora: **Tutora: Cristina**
-- [Mª Carmen García] - **Tutor: Jordi**
-- [Víctor Manuel González] - **Tutor: Chema**
+- [Francisco de la Puente]Tutora: - **Tutora: Cristina**
+- [Mª Carmen García] - <span style="color:yellow">**Tutor: Jordi**</span>
+- [Víctor Manuel González] - <span style="color:orange">**Tutor: Chema**</span>
 - [Álvaro Martín] - **Tutora: Cristina** 
-- [Iván Martín]- **Tutora: Cristina**
-- [Paula Nunes]**Tutor: Chema**
-- [Raúl Pérez]**Tutor: Chema**
-- [Mario Rodríguez]- **Tutora: Cristina**
+- [Iván Martín] - **Tutora: Cristina**
+- [Paula Nunes] - **Tutor: Chema**
+- [Raúl Pérez] - **Tutor: Chema**
+- [Mario Rodríguez] - **Tutora: Cristina**
 - [Lara Rodríguez] - **Tutor: Juan**
 - [Carlos Samaniego] - **Tutora: Silvia**
 - [Jesús Sánchez] - **Tutor: Juan** 
-- [Raúl Sastre]- **Tutora: Silvia**
-- [Alonso Soriano]**Tutor: Chema**
-- [Roberto Toquero]- **Tutora: Silvia**
+- [Raúl Sastre] - **Tutora: Silvia**
+- [Alonso Soriano] - **Tutor: Chema**
+- [Roberto Toquero] - **Tutora: Silvia**
 
 ---
 

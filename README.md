@@ -60,7 +60,7 @@ Se puede hacer una propuesta de proyecto, utilizando este [modelo](Proyecto-Prop
 
 Realizar el anteproyecto, utilizando este [modelo](Proyecto-EsquemaAnteproyecto_24.docx)
 
-- Fecha límite de entrega del anteproyecto: **miércoles 3 de abril de 2024**
+- Fecha límite de entrega del anteproyecto: **viernes 5 de abril de 2024**
 
 
 ## Relación de Proyectos
@@ -93,4 +93,4 @@ A continuación listaremos los alumnos que van a realizar los proyectos. En esta
 ### 🗓️ Fechas a tener en cuenta
 
 - Propuesta de proyecto: **martes 19 de marzo de 2024**
-- Anteproyecto: **miércoles 3 de abril de 2024**
+- Anteproyecto: **viernes 5 de abril de 2024**

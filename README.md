@@ -82,8 +82,8 @@ A continuación listaremos los alumnos que van a realizar los proyectos. En esta
 - [Lara Rodríguez] - **Tutor: Juan**
 - [Carlos Samaniego] - **Tutora: Silvia**
 - [Jesús Sánchez] - **Tutor: Juan** 
-- [Raúl Sastre] - **Tutora: Silvia**
-- [Alonso Soriano] - **Tutor: Chema**
+- [Raúl Sastre] - **Tutora: Chema**
+- [Alonso Soriano] - **Tutor: Silvia**
 - [Roberto Toquero] - **Tutora: Silvia**
 
 ---

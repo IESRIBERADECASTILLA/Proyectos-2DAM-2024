@@ -73,7 +73,7 @@ A continuación listaremos los alumnos que van a realizar los proyectos. En esta
 - Collantes21 - **Tutor: Juan** - [Repositorio general](https://github.com/collantes21) [Repositorio proyecto](https://github.com/collantes21/TFG.git)
 - Francisco de la Puente - **Tutora: Cristina** - [Repositorio general](https://github.com/FranciscoDeLaPuenteAlonso?tab=repositories) [Repositorio proyecto](https://github.com/FranciscoDeLaPuenteAlonso/proyecto_fin_de_curso)
 - Mª Carmen García - **Tutor: Jordi** - [Repositorio general] [Repositorio proyecto]
-- Víctor Manuel González - **Tutor: Chema** - [Repositorio general] [Repositorio proyecto]
+- Víctor Manuel González - **Tutor: Chema** - [Repositorio general] [Repositorio proyecto](https://github.com/victorgonzbaj/NestApp)
 - Álvaro Martín - **Tutora: Cristina** - [Repositorio general](https://github.com/MartinGomezAlvaro?tab=repositories) [Repositorio proyecto](https://github.com/MartinGomezAlvaro/BussAPI) 
 - Iván Martín - **Tutora: Cristina** - [Repositorio general](https://github.com/MartinGomezIvan?tab=repositories) [Repositorio proyecto](https://github.com/MartinGomezIvan/DeliVibes)
 - Paula Nunes - **Tutor: Chema** - [Repositorio general](https://github.com/PaulaNuness?tab=repositories) [Repositorio proyecto](https://github.com/PaulaNuness/PetCare.git)

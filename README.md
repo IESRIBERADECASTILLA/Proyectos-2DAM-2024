@@ -67,8 +67,8 @@ Realizar el anteproyecto, utilizando este [modelo](Proyecto-EsquemaAnteproyecto_
 
 A continuación listaremos los alumnos que van a realizar los proyectos. En esta sección se podrá acceder a los repositorios generales de los alumnos asi como al repositorio de su proyecto.
 
-- [Vera Andrés] - **Tutora: Silvia**
-- [Oscar Arribas] - **Tutora: Cristina**
+- Vera Andrés - **Tutora: Silvia** - [Repositorio general] [Repositorio proyecto]
+- Oscar Arribas - **Tutora: Cristina** - [Repositorio general] (https://github.com/OscarArribas?tab=repositories) [Repositorio proyecto] (https://github.com/OscarArribas/ProyectoFinCurso.git)
 - [Sergio Benito] - **Tutor: Juan**
 - [Álvaro Collantes] - **Tutor: Juan** 
 - [Francisco de la Puente] - **Tutora: Cristina**

@@ -69,22 +69,22 @@ A continuación listaremos los alumnos que van a realizar los proyectos. En esta
 
 - Vera Andrés - **Tutora: Silvia** - [Repositorio general] [Repositorio proyecto]
 - Oscar Arribas - **Tutora: Cristina** - [Repositorio general](https://github.com/OscarArribas?tab=repositories) [Repositorio proyecto](https://github.com/OscarArribas/ProyectoFinCurso.git)
-- [Sergio Benito] - **Tutor: Juan**
-- [Álvaro Collantes] - **Tutor: Juan** 
-- [Francisco de la Puente] - **Tutora: Cristina**
-- [Mª Carmen García] - **Tutor: Jordi**
-- [Víctor Manuel González] - **Tutor: Chema**
-- [Álvaro Martín] - **Tutora: Cristina** 
-- [Iván Martín] - **Tutora: Cristina**
-- [Paula Nunes] - **Tutor: Chema**
-- [Raúl Pérez] - **Tutor: Chema**
-- [Mario Rodríguez] - **Tutora: Cristina**
-- [Lara Rodríguez] - **Tutor: Juan**
-- [Carlos Samaniego] - **Tutora: Silvia**
-- [Jesús Sánchez] - **Tutor: Juan** 
-- [Raúl Sastre] - **Tutora: Chema**
-- [Alonso Soriano] - **Tutor: Silvia**
-- [Roberto Toquero] - **Tutora: Silvia**
+- SergioBenitoA - **Tutor: Juan** [Repositorio general](https://github.com/SergioBenitoA) [Repositorio proyecto]8https://github.com/SergioBenitoA/TFG.git)
+- Collantes21 - **Tutor: Juan** - [Repositorio general](https://github.com/collantes21) [Repositorio proyecto](https://github.com/collantes21/TFG.git)
+- Francisco de la Puente - **Tutora: Cristina** - [Repositorio general](https://github.com/FranciscoDeLaPuenteAlonso?tab=repositories) [Repositorio proyecto](https://github.com/FranciscoDeLaPuenteAlonso/proyecto_fin_de_curso)
+- Mª Carmen García - **Tutor: Jordi** - [Repositorio general] [Repositorio proyecto]
+- Víctor Manuel González - **Tutor: Chema** - [Repositorio general] [Repositorio proyecto]
+- Álvaro Martín - **Tutora: Cristina** - [Repositorio general](https://github.com/MartinGomezAlvaro?tab=repositories) [Repositorio proyecto](https://github.com/MartinGomezAlvaro/BussAPI) 
+- Iván Martín - **Tutora: Cristina** - [Repositorio general](https://github.com/MartinGomezIvan?tab=repositories) [Repositorio proyecto](https://github.com/MartinGomezIvan/DeliVibes)
+- Paula Nunes - **Tutor: Chema** - [Repositorio general](https://github.com/PaulaNuness?tab=repositories) [Repositorio proyecto](https://github.com/PaulaNuness/PetCare.git)
+- Raúl Pérez - **Tutor: Chema** - [Repositorio general] [Repositorio proyecto]
+- Mario Rodríguez - **Tutora: Cristina** - [Repositorio general](https://github.com/MarioRodriguezCordero?tab=repositories) [Repositorio proyecto](https://github.com/MarioRodriguezCordero/BiblioDeposito)
+- Lara Rodríguez - **Tutor: Juan** - [Repositorio general] [Repositorio proyecto](https://github.com/MissStormy/LovelaceVault)
+- Carlos Samaniego - **Tutora: Silvia** - [Repositorio general] [Repositorio proyecto]
+- Jesús Sánchez - **Tutor: Juan** - [Repositorio general] [Repositorio proyecto]  
+- Raúl Sastre - **Tutora: Chema** - [Repositorio general](https://github.com/rasamadev) [Repositorio proyecto](https://github.com/rasamadev/VarSign)
+- Alonso Soriano - **Tutor: Silvia** - [Repositorio general](https://github.com/AlonsoSorCar) [Repositorio proyecto](https://github.com/AlonsoSorCar/ProyectoHands)
+- Roberto Toquero - **Tutora: Silvia** - [Repositorio general](https://github.com/RoberToquero?tab=repositories) [Repositorio proyecto](https://github.com/RoberToquero/TicketTime.git)
 
 ---
 

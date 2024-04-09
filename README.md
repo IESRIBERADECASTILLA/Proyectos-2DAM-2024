@@ -67,7 +67,7 @@ Realizar el anteproyecto, utilizando este [modelo](Proyecto-EsquemaAnteproyecto_
 
 A continuación listaremos los alumnos que van a realizar los proyectos. En esta sección se podrá acceder a los repositorios generales de los alumnos asi como al repositorio de su proyecto.
 
-- Vera Andrés - **Tutora: Silvia** - [Repositorio general] [Repositorio proyecto]
+- Vera Andrés - **Tutora: Silvia** - [Repositorio general] [Repositorio proyecto](https://github.com/VeraLoca13/GodotHotel )
 - Oscar Arribas - **Tutora: Cristina** - [Repositorio general](https://github.com/OscarArribas?tab=repositories) [Repositorio proyecto](https://github.com/OscarArribas/ProyectoFinCurso.git)
 - SergioBenitoA - **Tutor: Juan** [Repositorio general](https://github.com/SergioBenitoA) [Repositorio proyecto]8https://github.com/SergioBenitoA/TFG.git)
 - Collantes21 - **Tutor: Juan** - [Repositorio general](https://github.com/collantes21) [Repositorio proyecto](https://github.com/collantes21/TFG.git)
@@ -81,7 +81,7 @@ A continuación listaremos los alumnos que van a realizar los proyectos. En esta
 - Mario Rodríguez - **Tutora: Cristina** - [Repositorio general](https://github.com/MarioRodriguezCordero?tab=repositories) [Repositorio proyecto](https://github.com/MarioRodriguezCordero/BiblioDeposito)
 - Lara Rodríguez - **Tutor: Juan** - [Repositorio general] [Repositorio proyecto](https://github.com/MissStormy/LovelaceVault)
 - Carlos Samaniego - **Tutora: Silvia** - [Repositorio general] [Repositorio proyecto]
-- Jesús Sánchez - **Tutor: Juan** - [Repositorio general] [Repositorio proyecto]  
+- Jesús Sánchez - **Tutor: Juan** - [Repositorio general](https://github.com/JesusSanchez22?tab=repositories) [Repositorio proyecto](https://github.com/JesusSanchez22/TFG_DAM_JesusSanchez)
 - Raúl Sastre - **Tutora: Chema** - [Repositorio general](https://github.com/rasamadev) [Repositorio proyecto](https://github.com/rasamadev/VarSign)
 - Alonso Soriano - **Tutor: Silvia** - [Repositorio general](https://github.com/AlonsoSorCar) [Repositorio proyecto](https://github.com/AlonsoSorCar/ProyectoHands)
 - Roberto Toquero - **Tutora: Silvia** - [Repositorio general](https://github.com/RoberToquero?tab=repositories) [Repositorio proyecto](https://github.com/RoberToquero/TicketTime.git)

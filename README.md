@@ -80,7 +80,7 @@ A continuación listaremos los alumnos que van a realizar los proyectos. En esta
 - Raúl Pérez - **Tutor: Chema** - [Repositorio general] [Repositorio proyecto]
 - Mario Rodríguez - **Tutora: Cristina** - [Repositorio general](https://github.com/MarioRodriguezCordero?tab=repositories) [Repositorio proyecto](https://github.com/MarioRodriguezCordero/BiblioDeposito)
 - Lara Rodríguez - **Tutor: Juan** - [Repositorio general] [Repositorio proyecto](https://github.com/MissStormy/LovelaceVault)
-- Carlos Samaniego - **Tutora: Silvia** - [Repositorio general] [Repositorio proyecto]
+- Carlos Samaniego - **Tutora: Silvia** - [Repositorio general] https://github.com/CarlosSamaniegoLeo?tab=repositories [Repositorio proyecto] (https://github.com/CarlosSamaniegoLeo/TFG_CarlosSamaniego.git)
 - Jesús Sánchez - **Tutor: Juan** - [Repositorio general](https://github.com/JesusSanchez22?tab=repositories) [Repositorio proyecto](https://github.com/JesusSanchez22/TFG_DAM_JesusSanchez)
 - Raúl Sastre - **Tutora: Chema** - [Repositorio general](https://github.com/rasamadev) [Repositorio proyecto](https://github.com/rasamadev/VarSign)
 - Alonso Soriano - **Tutor: Silvia** - [Repositorio general](https://github.com/AlonsoSorCar) [Repositorio proyecto](https://github.com/AlonsoSorCar/ProyectoHands)

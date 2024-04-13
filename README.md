@@ -10,8 +10,10 @@ En este repositorio vamos a poner toda la información sobre los **Proyectos de 
     - [Tipos de proyectos](#tipos-de-proyectos)
   - [Fases](#fases)
     - [Propuesta de proyectos](#propuesta-de-proyectos)
-    - [Anteproyecto](#Anteproyecto)
+    - [Anteproyecto](#anteproyecto)
   - [Relación de Proyectos](#relaci%C3%B3n-de-proyectos)
+  - [Normas entrega memoria y proyecto](#normas-entrega-memoria-y-proyecto)
+  - [Defensa oral](#defensa-oral)
   - [Calendario](#calendario)
     - [🗓️ Fechas a tener en cuenta](#%EF%B8%8F-fechas-a-tener-en-cuenta)
 
@@ -74,7 +76,7 @@ A continuación listaremos los alumnos que van a realizar los proyectos. En esta
 - Francisco de la Puente - **Tutora: Cristina** - [Repositorio general](https://github.com/FranciscoDeLaPuenteAlonso?tab=repositories) [Repositorio proyecto](https://github.com/FranciscoDeLaPuenteAlonso/proyecto_fin_de_curso)
 - Mª Carmen García - **Tutor: Jordi** - [Repositorio general] [Repositorio proyecto]
 - Víctor Manuel González - **Tutor: Chema** - [Repositorio general] [Repositorio proyecto](https://github.com/victorgonzbaj/NestApp)
-- Álvaro Martín - **Tutora: Cristina** - [Repositorio general](https://github.com/MartinGomezAlvaro?tab=repositories) [Repositorio proyecto](https://github.com/MartinGomezAlvaro/BussAPI) 
+- Álvaro Martín - **Tutora: Cristina** - [Repositorio general](https://github.com/MartinGomezAlvaro?tab=repositories) [Repositorio proyecto](https://github.com/MartinGomezAlvaro/primer_proyecto) 
 - Iván Martín - **Tutora: Cristina** - [Repositorio general](https://github.com/MartinGomezIvan?tab=repositories) [Repositorio proyecto](https://github.com/MartinGomezIvan/DeliVibes)
 - Paula Nunes - **Tutor: Chema** - [Repositorio general](https://github.com/PaulaNuness?tab=repositories) [Repositorio proyecto](https://github.com/PaulaNuness/PetCare.git)
 - Raúl Pérez - **Tutor: Chema** - [Repositorio general] [Repositorio proyecto]
@@ -87,6 +89,16 @@ A continuación listaremos los alumnos que van a realizar los proyectos. En esta
 - Roberto Toquero - **Tutora: Silvia** - [Repositorio general](https://github.com/RoberToquero?tab=repositories) [Repositorio proyecto](https://github.com/RoberToquero/TicketTime.git)
 
 ---
+
+## Normas entrega memoria y proyecto
+- Para la memoria del proyecto, hay que ajustarse al modelo de plantilla que se puede descargar de este repositorio: portada, índice estructurado, buena redacción, sin faltas de ortografía
+- En la memoria, incluir todos los apartados. Extensión mínima: 40 páginas
+- El proyecto tiene que estar subido a Github como público: El repositorio tiene que contener el código fuente de la aplicación y un archivo README con el siguiente contenido: Título del proyecto, descripción, enlace a la memoria del proyecto en formato PDF, enlace al manual de usuario en formato PDF.
+- Nombre del archivo de la memoria y manual: **Apellido1_Apellido2_Nombre_Memoria_ProyectoFinal_DAM24.pdf / Apellido1_Apellido2_Nombre_Manual_ProyectoFinal_DAM24.pdf**
+- Además de todo lo anterior, el día de la defensa hay que entregar todo en una memoria USB (memoria, manual, código fuente de la aplicación, archivo creado para la presentación...)
+
+## Defensa oral
+- Leer el apartado correspondiente de la rúbrica (Teams--> FCT --> PROYECTO_FCT)
 
 ## Calendario
 

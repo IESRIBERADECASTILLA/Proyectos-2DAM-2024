@@ -19,7 +19,7 @@ En este repositorio vamos a poner toda la información sobre los **Proyectos de 
 
 ## Introducción
 
-El Proyecto de de Grado es un módulo profesional más en el Grado Superior de Aplicaciones Multiplataforma. Su duración es de 30 horas.
+El Proyecto de Grado es un módulo profesional más en el Grado Superior de Aplicaciones Multiplataforma. Su duración es de 30 horas.
 
 Para dicho módulo cada alumno puede proponer un proyecto, que posteriormente debe ser aceptado por el equipo docente, o bien puede realizar un proyecto del banco de proyectos del Departamento de Informática.
 
@@ -71,7 +71,7 @@ A continuación listaremos los alumnos que van a realizar los proyectos. En esta
 
 - Vera Andrés - **Tutora: Silvia** - [Repositorio general] [Repositorio proyecto](https://github.com/VeraLoca13/GodotHotel )
 - Oscar Arribas - **Tutora: Cristina** - [Repositorio general](https://github.com/OscarArribas?tab=repositories) [Repositorio proyecto](https://github.com/OscarArribas/ProyectoFinCurso.git)
-- SergioBenitoA - **Tutor: Juan** [Repositorio general](https://github.com/SergioBenitoA) [Repositorio proyecto]8https://github.com/SergioBenitoA/TFG.git)
+- SergioBenitoA - **Tutor: Juan** [Repositorio general](https://github.com/SergioBenitoA) [Repositorio proyecto](https://github.com/SergioBenitoA/TFG.git)
 - Collantes21 - **Tutor: Juan** - [Repositorio general](https://github.com/collantes21) [Repositorio proyecto](https://github.com/collantes21/TFG.git)
 - Francisco de la Puente - **Tutora: Cristina** - [Repositorio general](https://github.com/FranciscoDeLaPuenteAlonso?tab=repositories) [Repositorio proyecto](https://github.com/FranciscoDeLaPuenteAlonso/proyecto_fin_de_curso)
 - Mª Carmen García - **Tutor: Jordi** - [Repositorio general] [Repositorio proyecto]

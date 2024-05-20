@@ -6,16 +6,18 @@ En este repositorio vamos a poner toda la información sobre los **Proyectos de 
 
 - [Proyectos-2DAM-2024](#proyectos-2dam-2024)
   - [Indice](#indice)
-  - [Introducción](#introducci%C3%B3n)
+  - [Introducción](#introducción)
     - [Tipos de proyectos](#tipos-de-proyectos)
   - [Fases](#fases)
     - [Propuesta de proyectos](#propuesta-de-proyectos)
     - [Anteproyecto](#anteproyecto)
-  - [Relación de Proyectos](#relaci%C3%B3n-de-proyectos)
+    - [Entrega de proyectos](#entrega-de-proyectos)
+    - [Defensa de proyectos](#defensa-de-proyectos)
+  - [Relación de Proyectos](#relación-de-proyectos)
   - [Normas entrega memoria y proyecto](#normas-entrega-memoria-y-proyecto)
   - [Defensa oral](#defensa-oral)
   - [Calendario](#calendario)
-    - [🗓️ Fechas a tener en cuenta](#%EF%B8%8F-fechas-a-tener-en-cuenta)
+    - [🗓️ Fechas a tener en cuenta](#️-fechas-a-tener-en-cuenta)
 
 ## Introducción
 
@@ -64,6 +66,41 @@ Realizar el anteproyecto, utilizando este [modelo](Proyecto-EsquemaAnteproyecto_
 
 - Fecha límite de entrega del anteproyecto: **viernes 5 de abril de 2024**
 
+---
+
+### Entrega de proyectos
+
+Entrega del código y memoria del proyecto
+
+- Fecha límite de entrega del proyecto: **jueves 23 de mayo de 2024**
+---
+
+### Defensa de proyectos
+
+Horario y orden de defensa de proyectos
+
+
+|Alumno  |Fecha  |Hora  |
+|---------|---------|---------|
+| Álvaro Collantes | 27/05/2024 | 08:45 - 09:15 |
+| Lara Rodríguez | 27/05/2024 | 09:15 - 09:45 |
+| Francisco de la Puente | 27/05/2024 | 09:45 - 10:15 |
+| Iván Martín | 27/05/2024 | 10:15 - 10:45 |
+| Paula Nunes | 27/05/2024 | 10:45 - 11:15 |
+| Álvaro Martín | 27/05/2024 | 11:15 - 11:45 |
+| Vera Andrés | 27/05/2024 | 11:45 - 12:15 |
+| Jesús María Sánchez | 28/05/2024 | 08:45 - 09:15 |
+| Óscar Arribas | 28/05/2024 | 09:15 - 09:45 |
+| Raúl Pérez | 28/05/2024 | 09:45 - 10:15 |
+| Mario Rodríguez | 28/05/2024 | 10:15 - 10:45 |
+| Carlos Samaniego | 28/05/2024 | 11:45 - 12:15 |
+| Roberto Toquero | 28/05/2024 | 12:15 - 12:45 |
+| Alonso Soriano | 28/05/2024 | 12:45 - 13:15 |
+| Sergio Benito | 14/06/2024 | 08:45 - 09:15 |
+| Raúl Sastre | 14/06/2024 | 09:15 - 09:45 |
+| Carmen García | 14/06/2024 | 09:45 - 10:15 |
+| Víctor González | 14/06/2024 | 10:15 - 10:45 |
+
 
 ## Relación de Proyectos
 
@@ -79,7 +116,7 @@ A continuación listaremos los alumnos que van a realizar los proyectos. En esta
 - Álvaro Martín - **Tutora: Cristina** - [Repositorio general](https://github.com/MartinGomezAlvaro?tab=repositories) [Repositorio proyecto](https://github.com/MartinGomezAlvaro/primer_proyecto) 
 - Iván Martín - **Tutora: Cristina** - [Repositorio general](https://github.com/MartinGomezIvan?tab=repositories) [Repositorio proyecto](https://github.com/MartinGomezIvan/DeliVibes)
 - Paula Nunes - **Tutor: Chema** - [Repositorio general](https://github.com/PaulaNuness?tab=repositories) [Repositorio proyecto](https://github.com/PaulaNuness/PetCare.git)
-- Raúl Pérez - **Tutor: Chema** - [Repositorio general] [Repositorio proyecto]
+- Raúl Pérez - **Tutor: Chema** - [Repositorio general] [Repositorio proyecto](https://github.com/rauliscar/pappdel.git)
 - Mario Rodríguez - **Tutora: Cristina** - [Repositorio general](https://github.com/MarioRodriguezCordero?tab=repositories) [Repositorio proyecto](https://github.com/MarioRodriguezCordero/BiblioDeposito)
 - Lara Rodríguez - **Tutor: Juan** - [Repositorio general] [Repositorio proyecto](https://github.com/MissStormy/LovelaceVault)
 - Carlos Samaniego - **Tutora: Silvia** - [Repositorio general] [Repositorio proyecto]
@@ -106,3 +143,5 @@ A continuación listaremos los alumnos que van a realizar los proyectos. En esta
 
 - Propuesta de proyecto: **martes 19 de marzo de 2024**
 - Anteproyecto: **viernes 5 de abril de 2024**
+- Entrega de proyectos: **jueves 23 de mayo de 2024**
+- Defensa de proyectos: **lunes 27 de mayo de 2024, martes 28 de mayo de 2024 y viernes 14 de junio (DUAL)**

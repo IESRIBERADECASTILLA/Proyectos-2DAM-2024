@@ -82,17 +82,17 @@ Horario y orden de defensa de proyectos
 
 |Alumno  |Fecha  |Hora  |
 |---------|---------|---------|
-| Álvaro Collantes | 27/05/2024 | 08:45 - 09:15 |
-| Lara Rodríguez | 27/05/2024 | 09:15 - 09:45 |
+| Mario Rodríguez | 27/05/2024 | 09:15 - 09:45 |
 | Francisco de la Puente | 27/05/2024 | 09:45 - 10:15 |
 | Iván Martín | 27/05/2024 | 10:15 - 10:45 |
 | Paula Nunes | 27/05/2024 | 10:45 - 11:15 |
-| Álvaro Martín | 27/05/2024 | 11:15 - 11:45 |
-| Vera Andrés | 27/05/2024 | 11:45 - 12:15 |
+| Álvaro Martín | 27/05/2024 | 11:45 - 12:15 |
+| Vera Andrés | 27/05/2024 | 12:15 - 12:45 |
 | Jesús María Sánchez | 28/05/2024 | 08:45 - 09:15 |
 | Óscar Arribas | 28/05/2024 | 09:15 - 09:45 |
 | Raúl Pérez | 28/05/2024 | 09:45 - 10:15 |
-| Mario Rodríguez | 28/05/2024 | 10:15 - 10:45 |
+| Álvaro Collantes | 28/05/2024 | 10:15 - 10:45 |
+| Lara Rodríguez | 28/05/2024 | 10:45 - 11:15 |
 | Carlos Samaniego | 28/05/2024 | 11:45 - 12:15 |
 | Roberto Toquero | 28/05/2024 | 12:15 - 12:45 |
 | Alonso Soriano | 28/05/2024 | 12:45 - 13:15 |

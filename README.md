@@ -82,24 +82,26 @@ Horario y orden de defensa de proyectos
 
 |Alumno  |Fecha  |Hora  |
 |---------|---------|---------|
-| Mario Rodríguez | 27/05/2024 | 09:15 - 09:45 |
-| Francisco de la Puente | 27/05/2024 | 09:45 - 10:15 |
-| Iván Martín | 27/05/2024 | 10:15 - 10:45 |
-| Paula Nunes | 27/05/2024 | 10:45 - 11:15 |
-| Álvaro Martín | 27/05/2024 | 11:45 - 12:15 |
-| Vera Andrés | 27/05/2024 | 12:15 - 12:45 |
-| Jesús María Sánchez | 28/05/2024 | 08:45 - 09:15 |
-| Óscar Arribas | 28/05/2024 | 09:15 - 09:45 |
-| Raúl Pérez | 28/05/2024 | 09:45 - 10:15 |
-| Álvaro Collantes | 28/05/2024 | 10:15 - 10:45 |
-| Lara Rodríguez | 28/05/2024 | 10:45 - 11:15 |
-| Carlos Samaniego | 28/05/2024 | 11:45 - 12:15 |
-| Roberto Toquero | 28/05/2024 | 12:15 - 12:45 |
-| Alonso Soriano | 28/05/2024 | 12:45 - 13:15 |
-| Sergio Benito | 14/06/2024 | 08:45 - 09:15 |
-| Raúl Sastre | 14/06/2024 | 09:15 - 09:45 |
-| Carmen García | 14/06/2024 | 09:45 - 10:15 |
-| Víctor González | 14/06/2024 | 10:15 - 10:45 |
+| ~~Mario Rodríguez~~ | ~~27/05/2024~~ |~~09:15 - 09:45~~ |
+| ~~Francisco de la Puente~~ | ~~27/05/2024~~ | ~~09:45 - 10:15~~ |
+| ~~Iván Martín~~ | ~~27/05/2024~~ | ~~10:15 - 10:4~~5 |
+| ~~Paula Nunes~~ | ~~27/05/2024~~ | ~~10:45 - 11:15~~ |
+| ~~Álvaro Martín~~ | ~~27/05/2024~~ | ~~11:45 - 12:15~~ |
+| ~~Vera Andrés~~ | ~~27/05/2024~~ | ~~12:15 - 12:45~~ |
+| ~~Jesús María Sánchez~~ | ~~28/05/2024~~ | ~~08:45 - 09:15~~ |
+| ~~Óscar Arribas~~ | ~~28/05/2024~~ | ~~09:15 - 09:45~~ |
+| ~~Raúl Pérez~~ | ~~28/05/2024~~ | ~~09:45 - 10:15~~ |
+| ~~Álvaro Collantes~~ | ~~28/05/2024~~ | ~~10:15 - 10:45~~ |
+| ~~Lara Rodríguez~~ | ~~28/05/2024~~ | ~~10:45 - 11:15~~ |
+| ~~Carlos Samaniego~~ | ~~28/05/2024~~ | ~~11:45 - 12:15~~ |
+| ~~Roberto Toquero~~ | ~~28/05/2024~~ | ~~12:15 - 12:45~~ |
+| ~~Alonso Soriano~~ | ~~28/05/2024~~ | ~~12:45 - 13:15~~ |
+| Sergio Benito | 17/06/2024 | 08:45 - 09:15 |
+| Raúl Sastre | 17/06/2024 | 09:15 - 09:45 |
+| Carmen García | 17/06/2024 | 09:45 - 10:15 |
+| Víctor González | 17/06/2024 | 10:15 - 10:45 |
+| Raúl Pérez | 17/06/2024 | 10:45 - 11:15 |
+| Mario Rodríguez | 17/06/2024 | 11:45 - 12:15 |
 
 
 ## Relación de Proyectos
@@ -144,4 +146,4 @@ A continuación listaremos los alumnos que van a realizar los proyectos. En esta
 - Propuesta de proyecto: **martes 19 de marzo de 2024**
 - Anteproyecto: **viernes 5 de abril de 2024**
 - Entrega de proyectos: **jueves 23 de mayo de 2024**
-- Defensa de proyectos: **lunes 27 de mayo de 2024, martes 28 de mayo de 2024 y viernes 14 de junio (DUAL)**
+- Defensa de proyectos: **lunes 27 de mayo de 2024, martes 28 de mayo de 2024 y lunes 17 de junio (DUAL)**

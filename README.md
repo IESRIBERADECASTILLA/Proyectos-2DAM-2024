@@ -1,6 +1,6 @@
 # Proyectos-2DAM-2024
 
-En este repositorio vamos a poner toda la información sobre los **Proyectos de Desarrollo de Aplicaciones Multiplataforma del IES Ribera de Castilla** para el curso 23/24
+En este repositorio vamos a poner toda la información sobre los **Proyectos de Desarrollo de Aplicaciones Multiplataforma del IES Ribera de Castilla** para el curso 23/24 y la **convocatoria de diciembre de 2024**
 
 ## Indice
 
@@ -57,14 +57,14 @@ c) **Proyecto de gestión:** Estará encaminado a la realización de estudios de
 
 Se puede hacer una propuesta de proyecto, utilizando este [modelo](Proyecto-Propuesta_24.doc)
 
-- Fecha límite de entrega de la popuesta: **martes 19 de marzo de 2024**
+- ~~Fecha límite de entrega de la popuesta: **martes 19 de marzo de 2024**~~
 
 ---
 ### Anteproyecto
 
 Realizar el anteproyecto, utilizando este [modelo](Proyecto-EsquemaAnteproyecto_24.docx)
 
-- Fecha límite de entrega del anteproyecto: **viernes 5 de abril de 2024**
+- ~~Fecha límite de entrega del anteproyecto: **viernes 5 de abril de 2024**~~
 
 ---
 
@@ -72,7 +72,7 @@ Realizar el anteproyecto, utilizando este [modelo](Proyecto-EsquemaAnteproyecto_
 
 Entrega del código y memoria del proyecto
 
-- Fecha límite de entrega del proyecto: **jueves 23 de mayo de 2024**
+- ~~Fecha límite de entrega del proyecto: **jueves 23 de mayo de 2024**~~
 ---
 
 ### Defensa de proyectos
@@ -96,12 +96,12 @@ Horario y orden de defensa de proyectos
 | ~~Carlos Samaniego~~ | ~~28/05/2024~~ | ~~11:45 - 12:15~~ |
 | ~~Roberto Toquero~~ | ~~28/05/2024~~ | ~~12:15 - 12:45~~ |
 | ~~Alonso Soriano~~ | ~~28/05/2024~~ | ~~12:45 - 13:15~~ |
-| Sergio Benito | 17/06/2024 | 08:45 - 09:15 |
-| Raúl Sastre | 17/06/2024 | 09:15 - 09:45 |
-| Carmen García | 17/06/2024 | 09:45 - 10:15 |
-| Víctor González | 17/06/2024 | 10:15 - 10:45 |
-| Raúl Pérez | 17/06/2024 | 10:45 - 11:15 |
-| Mario Rodríguez | 17/06/2024 | 11:45 - 12:15 |
+| ~~Sergio Benito~~ | ~~17/06/2024~~ | ~~08:45 - 09:15~~ |
+| ~~Raúl Sastre~~ | ~~17/06/2024~~ | ~~09:15 - 09:45~~ |
+| ~~Carmen García~~ | ~~17/06/2024~~ | ~~09:45 - 10:15~~ |
+| ~~Víctor González~~ | ~~17/06/2024~~ | ~~10:15 - 10:45~~ |
+| ~~Raúl Pérez~~ | ~~17/06/2024~~ | ~~10:45 - 11:15~~ |
+| ~~Mario Rodríguez~~ | ~~17/06/2024~~ | ~~11:45 - 12:15~~ |
 
 
 ## Relación de Proyectos
@@ -143,7 +143,7 @@ A continuación listaremos los alumnos que van a realizar los proyectos. En esta
 
 ### 🗓️ Fechas a tener en cuenta
 
-- Propuesta de proyecto: **martes 19 de marzo de 2024**
-- Anteproyecto: **viernes 5 de abril de 2024**
-- Entrega de proyectos: **jueves 23 de mayo de 2024**
-- Defensa de proyectos: **lunes 27 de mayo de 2024, martes 28 de mayo de 2024 y lunes 17 de junio (DUAL)**
+- ~~Propuesta de proyecto: **martes 19 de marzo de 2024**~~
+- ~~Anteproyecto: **viernes 5 de abril de 2024**~~
+- ~~Entrega de proyectos: **jueves 23 de mayo de 2024**~~
+- ~~Defensa de proyectos: **lunes 27 de mayo de 2024, martes 28 de mayo de 2024 y lunes 17 de junio (DUAL)**~~

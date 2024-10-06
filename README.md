@@ -19,6 +19,10 @@ En este repositorio vamos a poner toda la información sobre los **Proyectos de 
   - [Calendario](#calendario)
     - [🗓️ Fechas a tener en cuenta](#️-fechas-a-tener-en-cuenta)
 
+- [Convocatoria diciembre 2024](#-convocatoria-diciembre-2024)
+  - [Calendario](#calendario-diciembre-2024)
+    - [🗓️ Fechas a tener en cuenta](#️-fechas-a-tener-en-cuenta)
+
 ## Introducción
 
 El Proyecto de Grado es un módulo profesional más en el Grado Superior de Aplicaciones Multiplataforma. Su duración es de 30 horas.
@@ -147,3 +151,14 @@ A continuación listaremos los alumnos que van a realizar los proyectos. En esta
 - ~~Anteproyecto: **viernes 5 de abril de 2024**~~
 - ~~Entrega de proyectos: **jueves 23 de mayo de 2024**~~
 - ~~Defensa de proyectos: **lunes 27 de mayo de 2024, martes 28 de mayo de 2024 y lunes 17 de junio (DUAL)**~~
+
+## Convocatoria diciembre 2024
+
+## Calendario diciembre 2024
+
+### 🗓️ Fechas a tener en cuenta - convocatoria diciembre 2024
+
+- Propuesta de proyecto: **semana del 7 al 11 de octubre de 2024**
+- Anteproyecto: **semana del 14 al 18 de octubre de 2024**
+- Entrega de proyectos: **4**
+- Defensa de proyectos: ****

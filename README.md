@@ -20,8 +20,7 @@ En este repositorio vamos a poner toda la información sobre los **Proyectos de 
     - [🗓️ Fechas a tener en cuenta](#️-fechas-a-tener-en-cuenta)
 
 - [Convocatoria diciembre 2024](#convocatoria-diciembre-2024)
-  - [Calendario](#calendario-diciembre-2024)
-    - [🗓️ Fechas a tener en cuenta](#️-fechas-a-tener-en-cuenta)
+  
 
 ## Introducción
 
@@ -155,11 +154,18 @@ A continuación listaremos los alumnos que van a realizar los proyectos. En esta
 
 ## <span class="demo-highlight">Convocatoria diciembre 2024</span>
 
-## Calendario diciembre 2024
 
 ### 🗓️ Fechas a tener en cuenta - convocatoria diciembre 2024
 
 - Propuesta de proyecto: **semana del 7 al 11 de octubre de 2024**
 - Anteproyecto: **semana del 14 al 18 de octubre de 2024**
-- Entrega de proyectos: ****
-- Defensa de proyectos: ****
+- Entrega de proyectos: **17 de diciembre de 2024**
+- Defensa de proyectos: **19 de diciembre de 2024 a las 12:00**
+
+### Relación de Proyectos - convocatoria diciembre 2024
+
+A continuación listaremos los alumnos que van a realizar los proyectos. En esta sección se podrá acceder a los repositorios generales de los alumnos asi como al repositorio de su proyecto.
+
+- Néstor - **Tutor: Rodrigo** - [Repositorio general] [Repositorio proyecto]
+- Manuel - **Tutora: Cristina** - [Repositorio general] [Repositorio proyecto]
+- Ruslan - **Tutora: Cristina** [Repositorio general] [Repositorio proyecto]

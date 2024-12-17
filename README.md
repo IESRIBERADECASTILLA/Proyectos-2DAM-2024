@@ -168,4 +168,5 @@ A continuación listaremos los alumnos que van a realizar los proyectos. En esta
 
 - Néstor - **Tutor: Rodrigo** - [Repositorio general] [Repositorio proyecto]
 - Manuel - **Tutora: Cristina** - [Repositorio general] [Repositorio proyecto]
-- Ruslan - **Tutora: Cristina** [Repositorio general] [Repositorio proyecto]
+- Ruslan - **Tutora: Cristina** [Repositorio API](https://github.com/Ruslan-Developer/clientsphere-springboot-app) [Repositorio web Angular](https://github.com/Ruslan-Developer/clientsphere-angular-app)
+

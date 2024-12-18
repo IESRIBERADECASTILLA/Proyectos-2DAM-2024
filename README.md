@@ -166,7 +166,7 @@ A continuación listaremos los alumnos que van a realizar los proyectos. En esta
 
 A continuación listaremos los alumnos que van a realizar los proyectos. En esta sección se podrá acceder a los repositorios generales de los alumnos asi como al repositorio de su proyecto.
 
-- Néstor - **Tutor: Rodrigo** - [Repositorio general] [Repositorio proyecto]
-- Manuel - **Tutora: Cristina** - [Repositorio general] [Repositorio proyecto]
+- Néstor - **Tutor: Rodrigo** - [Repositorio general] [Repositorio proyecto](https://github.com/nestor115/gameKeeper)
+- Manuel - **Tutora: Cristina** - [Repositorio general] [Repositorio proyecto](https://github.com/ManuLazaro/OficinaVirtual)
 - Ruslan - **Tutora: Cristina** [Repositorio API](https://github.com/Ruslan-Developer/clientsphere-springboot-app) [Repositorio web Angular](https://github.com/Ruslan-Developer/clientsphere-angular-app)
 
